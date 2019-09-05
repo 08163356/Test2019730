@@ -66,7 +66,6 @@ public class InterviewJavaAlgorithm {
         return -1;
     }
 
-
     public static void insertSort(int []arrays){
 
     }
